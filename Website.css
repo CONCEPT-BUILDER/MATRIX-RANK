@@ -1,0 +1,53 @@
+#top
+{
+	height : 10px;
+	width : auto;
+	background-color : black;
+}
+
+#first_row
+{
+	margin-top : 10px;
+}
+
+#S_row
+{
+	text-align : center;
+	text-decoration : underline;
+}
+
+#document
+{
+	color : Red;
+}
+
+.img1
+{
+	margin : 20px 0px 20px 100px;
+}
+
+#bottom
+{
+	height : 30vh;
+	width : auto;
+	background-color : black;
+	color : white;
+}
+
+.bh
+{
+	text-align : center;
+	color : white;
+}
+
+h4
+{
+	color: cyan;
+	text-decoration : underline;
+	text-align : center;
+}
+
+#logo
+{
+	margin-left : 5px;
+}
