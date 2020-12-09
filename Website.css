@@ -16,7 +16,7 @@
 	text-decoration : underline;
 }
 
-#document
+#document_1
 {
 	color : Red;
 }
@@ -37,12 +37,28 @@
 .bh
 {
 	text-align : center;
+	color : black;
+}
+
+.bh_1
+{
+	text-align : center;
 	color : white;
+}
+
+.questions
+{
+	font-size : 20px;
+}
+
+.content
+{
+	font-size : 20px;
 }
 
 h4
 {
-	color: cyan;
+	color: black;
 	text-decoration : underline;
 	text-align : center;
 }
@@ -59,7 +75,7 @@ a:link {
 }
 
 a:visited {
-  color: pink;
+  color: grey;
   background-color: transparent;
   text-decoration: none;
 }
